@@ -32,7 +32,7 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 <br>
 
 ## 3️⃣ Methodology
-### ◽ Architecture
+### ◽ Azure Synapse Analytics Architecture
 <p align="left"> <img src="https://user-images.githubusercontent.com/88306533/128795445-d7621cce-9196-4d29-bbff-bc7d44f67bfd.png" width="80%" height="80%"></img></p>
 
 --- 
@@ -50,3 +50,9 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
   - [x] ① : Azure Synapse Analytics를 활용한 User Segmentation기반의 Target Marketing
   - [ ] ② : Azure Machine Learning Service를 활용한 Abuser Detection
   - [ ] ③ : Azure Cognitive Service를 활용한 챗봇 및 in-game translation 개발 
+
+---
+<br>
+
+## 5️⃣ Reference
+> - URL ()
