@@ -39,11 +39,19 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 
 --- 
 ### ◽ Agenda Index
-- **Part0** : Overview
-- **Part1** : SQL pool
-- **Part2** : Apache Spark pool
-- **Part3** : ML Modeling ( Code-Free & Apache Spark MLlib )
-
+#### ◽ Part0 : Overview
+#### ◽ Part1 : SQL pool
+   > - [Part1_copy_data.sql](./Part1_copy_data.sql) 
+   > - [Part1_create_tables.sql](./Part1_create_tables.sql)
+   > - [Part1_join_tables.sql](./Part1_join_tables.sql)
+#### ◽ Part2 : Apache Spark pool
+   > - [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
+   > - [Part2_preprocessing.py](./Part2_preprocessing.py) 
+   > - [Part2_sqlpooltospark.ipynb](./Part2_sqlpooltospark.py) 
+   > - [Part2_sqlpooltospark.py](./Part2_sqlpooltospark.py) 
+#### ◽ Part3 : ML Modeling ( Code-Free & Apache Spark MLlib )
+   > - [Part3_sparkmllib_regression.ipynb](./Part3_sparkmllib_regression.ipynb)
+   > - [Part3_sparkmllib_regression.py](./Part3_sparkmllib_regression.py)
 ---
 <br>
 
