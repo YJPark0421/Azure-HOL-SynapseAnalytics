@@ -41,15 +41,14 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 ### ◽ Additional Info
 #### ◽ Part0 : Overview
 #### ◽ Part1 : SQL pool 
-   > - [Part1_copy_data.sql](./Part1_copy_data.sql) 
    > - [Part1_copy_data.sql](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part1_copy_data.sql)
-   > - [Part1_create_tables.sql](./Part1_create_tables.sql)
-   > - [Part1_join_tables.sql](./Part1_join_tables.sql)
+   > - [Part1_create_tables.sql](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part1_create_tables.sql)
+   > - [Part1_join_tables.sql](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part1_join_tables.sql)
 #### ◽ Part2 : Apache Spark pool
-   > - [Part2_preprocessing.py](./Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](./Part2_preprocessing.ipynb)
-   > - [Part2_sqlpooltospark.py](./Part2_sqlpooltospark.py) **|** [Part2_sqlpooltospark.ipynb](./Part2_sqlpooltospark.py) 
+   > - [Part2_preprocessing.py](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part2_preprocessing.py) **|** [Part2_preprocessing.ipynb](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part2_preprocessing.ipynb)
+   > - [Part2_sqlpooltospark.py](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part2_sqlpooltospark.py) **|** [Part2_sqlpooltospark.ipynb](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part2_sqlpooltospark.py) 
 #### ◽ Part3 : ML Modeling ( Code-Free & Apache Spark MLlib )
-   > - [Part3_sparkmllib_regression.py](./Part3_sparkmllib_regression.py) **|** [Part3_sparkmllib_regression.ipynb](./Part3_sparkmllib_regression.ipynb)
+   > - [Part3_sparkmllib_regression.py](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part3_sparkmllib_regression.py) **|** [Part3_sparkmllib_regression.ipynb](https://github.com/YJPark0421/Azure-Synapse-Analytics-HOL/blob/master/Code/Part3_sparkmllib_regression.ipynb)
 ---
 <br>
 
