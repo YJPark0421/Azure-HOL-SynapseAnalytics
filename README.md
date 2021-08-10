@@ -55,4 +55,4 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 <br>
 
 ## 5️⃣ Reference
-> - URL ()
+> - URL [What is Azure Synapse Analytics?,Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/synapse-analytics/overview-what-is)
