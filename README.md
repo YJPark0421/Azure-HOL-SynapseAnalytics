@@ -1,4 +1,4 @@
-# 🅰🅰🅰 Day
+# 🅰🅰🅰 Day 
 
 ## 1️⃣ Overview
 ### ◽ AAA Day(Advanced Azure Data Analytics Day)란?
