@@ -24,9 +24,11 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 ## 2️⃣ PreRequirement
 ### ◽ Download Resource 
 - **Part0** : Overview
+> - [Overview.pdf](./(Cloocus&MS)AAA_Synapse__Gaming_vol.1_배포용.pdf)
 - **Part1** : SQL pool
 - **Part2** : Apache Spark pool
 - **Part3** : ML Modeling ( Code-Free & Apache Spark MLlib )
+> - [Hands On Labs Guide.pdf](./(Cloocus&MS)AAA_Synapse_Lab_vol.1_배포용.pdf)
 
 --- 
 <br>
