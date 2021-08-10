@@ -40,7 +40,7 @@ Training|`Pyspark` `SQL` `Python` `Scala`|`Azure Synapse Analytics Service` `Azu
 --- 
 ### ◽ Additional Info
 #### ◽ Part0 : Overview
-#### ◽ Part1 : SQL pool
+#### ◽ Part1 : SQL pool 
    > - [Part1_copy_data.sql](./Part1_copy_data.sql) 
    > - [Part1_create_tables.sql](./Part1_create_tables.sql)
    > - [Part1_join_tables.sql](./Part1_join_tables.sql)
